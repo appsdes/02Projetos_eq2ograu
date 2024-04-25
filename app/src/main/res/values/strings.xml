@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EqMovUnif</string>
+    <string name="editTextA">Insira o valor de a</string>
+    <string name="editTextB">Insira o valor de b</string>
+    <string name="editTextC">Insira o valor de c</string>
+    <string name="textViewDelta">O valor de delta é</string>
+    <string name="textViewX1">O valor de X1 é</string>
+    <string name="textViewX2">O valor de X2 é</string>
+    <string name="textViewResult">O valor do resultado é</string>
+    <string name="buttonCalculate">Calcular</string>
+    
+</resources>
